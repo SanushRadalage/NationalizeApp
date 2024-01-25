@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nationalize</string>
+    <string name="probability">Probability</string>
+    <string name="enterSurname">Enter a surname</string>
+    <string name="search">Search</string>
+    <string name="emptyMessage">Enter a valid surname find countries</string>
+</resources>
