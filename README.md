@@ -25,7 +25,7 @@ project
 
 ## UI
 
-<img src="https://github.com/SanushRadalage/NationalizeApp/blob/main/app/src/main/res/drawable/screenshots.png" width="200" height="400">
+<img src="https://github.com/SanushRadalage/NationalizeApp/blob/main/app/src/main/res/drawable/screenshots.png">
 
 
 🌎 Happy Coding!
