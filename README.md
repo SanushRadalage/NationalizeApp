@@ -20,6 +20,9 @@ project
               └─── repository (Interface)
               └─── useCase
     └─── presentation
+                    └─── feature (feature-wise package)
+                                └─── UI
+                                └─── ViewModel
     └─── di
 ```
 
